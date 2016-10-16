@@ -1,2 +1,3 @@
 # hello-world
 My first repository!
+Just because I'm in over my head doesn't mean I shouldn't try...
